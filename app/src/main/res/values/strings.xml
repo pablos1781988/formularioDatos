@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">formularioDatos</string>
+    <string name="tituloFormulario">Ingrese Sus datos Personales</string>
+</resources>
